@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aryan%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20Next.js%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=200&section=header&text=Aryan%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20Next.js%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -20,19 +20,12 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 I'm a **Software Developer** who builds production web applications with **Next.js, React and the MERN stack**. I care about clean and responsive UI, fast pages and SEO-friendly architecture.
 
 - 🔭 Building **eB2BMart**, an Indian B2B marketplace, at **QCC**
 - 🏢 Previously built websites and CRM features for an insurance brokerage
 - ⚡ Interested in Core Web Vitals, scalable frontends and technical SEO
 - 📫 Reach me at **aryankumar7645@gmail.com**
-
-</td>
-<td width="40%" valign="top">
 
 ```js
 const aryan = {
@@ -44,10 +37,6 @@ const aryan = {
   focus: ["Performance", "SEO", "Clean UI"],
 };
 ```
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tech Stack
 
@@ -136,11 +125,8 @@ A Next.js App Router and Tailwind app deployed on Netlify, using Edge Functions,
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aryan955633&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan955633&theme=tokyo-night&hide_border=true&radius=10&area=true" width="95%" />
-</p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:1e3a8a&height=110&section=footer" width="100%" />
 </p>
