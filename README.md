@@ -38,6 +38,39 @@ const aryan = {
 };
 ```
 
+## 💡 What I Bring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎨 Frontend Engineering**<br>
+Scalable Next.js App Router apps, reusable React components, Zustand + React Query state management, and responsive, accessible UI.
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Backend & APIs**<br>
+REST APIs with Node.js and Express, MongoDB/Mongoose data modelling, and role-based access for multi-user platforms.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🚀 Performance & SEO**<br>
+Core Web Vitals tuning (LCP via `next/image`), JSON-LD structured data, dynamic sitemaps and programmatic local-SEO pages.
+
+</td>
+<td width="50%" valign="top">
+
+**🔁 Delivery**<br>
+Git feature-branch workflow, CI/CD with GitHub Actions, and shipping production features end-to-end.
+
+</td>
+</tr>
+</table>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -124,6 +157,20 @@ A Next.js App Router and Tailwind app deployed on Netlify, using Edge Functions,
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aryan955633&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryan955633&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryan955633&theme=tokyonight" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan955633/aryan955633/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan955633/aryan955633/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/aryan955633/aryan955633/output/github-snake.svg" />
+  </picture>
 </p>
 
 <!-- Footer -->
