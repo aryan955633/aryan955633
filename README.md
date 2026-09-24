@@ -158,10 +158,6 @@ A Next.js App Router and Tailwind app deployed on Netlify, using Edge Functions,
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aryan955633&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
 </p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryan955633&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryan955633&theme=tokyonight" />
-</p>
 
 ## 🐍 Contribution Snake
 
